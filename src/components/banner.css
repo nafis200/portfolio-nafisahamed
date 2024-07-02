@@ -1,0 +1,14 @@
+
+.background-div {
+    background-image: url('../../public/web-development1.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    height:10%
+  }
+
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+  }
